@@ -1,0 +1,14 @@
+{
+	"resolveGlobalModules": false,
+	"arrowParens": "avoid",
+	"bracketSpacing": true,
+	"bracketSameLine": false,
+	"jsxSingleQuote": false,
+	"singleQuote": true,
+	"trailingComma": "all",
+	"useTabs": true,
+	"printWidth": 120,
+	"quoteProps": "as-needed",
+	"htmlWhitespaceSensitivity": "css",
+	"semi": true
+}
